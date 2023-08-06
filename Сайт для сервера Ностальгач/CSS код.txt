@@ -1,0 +1,36 @@
+div { 
+    background-color: rgb(182, 188, 255);
+    height: 50px;
+    width: 57%;
+    border: 5px solid blue;
+  }
+  .myDiv {
+    background-color: pink;
+    height: 80px;
+    width: 30%;
+    border: 5px solid blue;
+  }
+  .port {
+    background-color: blanchedalmond;
+    height: 100px;
+    width: 40%;
+    border: 5px solid blue;
+  }
+  .noname {
+    background-color: pink;
+    height: 45px;
+    width: 10%;
+    border: 5px solid blue;
+  }
+  body {
+    background-color: rgb(255, 130, 255);
+  }
+  h2 {
+    text-align: center;
+  }
+  h4 {
+    text-align: center;
+  }
+  h3 {
+    text-align: center;
+  }

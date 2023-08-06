@@ -1,0 +1,11 @@
+var person = null;
+person = prompt("Ваш игровой ник на этом сервере?");
+alert("Привет, " + person);
+
+function onClickButton() {
+var data = confirm("Вы уверенны, что хотите перейдти по ссылке?");
+if(data) {
+    window.location = 'https://discord.gg/Tg5Urw3Q';
+}
+}
+

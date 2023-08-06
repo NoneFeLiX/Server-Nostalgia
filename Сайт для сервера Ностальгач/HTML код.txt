@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fenix</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <script src="js/main.js"></script>
+  <h1>Сервер для Minecraft</h1>
+<div>
+ <p>Лучший сервер в Minecraft 1.4.7 это - <b>Ностальгач</b>.</p>
+</div>
+<br>
+<p><b>Почему?</b></p>
+<div class="myDiv">
+<ul>
+  <li>Ностальгия</li>
+  <li>Единственный</li>
+  <li>Лучший</li>
+</ul>
+</div>
+<br>
+<img src="https://minecraftin.ru/uploads/posts/2013-02/1360847691_29579907.jpg" width="1200" height="500">
+<br>
+<div class="port">
+   <h2>Порт сервера:</h2>
+   <h3><b>95.217.192.218:25700</b></h3>
+</div>
+<br>
+<button onclick="onClickButton()"><b>Подробнее</b></button>
+<br>
+<br>
+<button type="button"
+onclick="document.getElementById('demo').innerHTML = Date()">
+Нажми, чтобы посмотреть дату на сервере</button>
+
+<p id="demo"></p>
+
+<div class="noname">
+  <p id="demo">NoName123</p>
+</div>
+<br>
+<button type="button" onclick="document.getElementById('demo').innerHTML = 'Администратор сервера:'">Кто он?</button>
+
+</body>
+</html>
